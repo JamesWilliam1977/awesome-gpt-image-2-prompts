@@ -121,7 +121,7 @@ If you find this useful, consider giving it a star. ⭐
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case1/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case1/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -133,7 +133,7 @@ If you find this useful, consider giving it a star. ⭐
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case2/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case2/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -145,7 +145,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case3/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case3/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -157,7 +157,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case4/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case4/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -169,7 +169,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case5/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case5/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -183,7 +183,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case7/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case7/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -197,7 +197,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case8/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/portrait_case8/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -211,7 +211,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case1/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case1/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -223,7 +223,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case2/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case2/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -237,7 +237,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case3/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case3/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -249,7 +249,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case4/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case4/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -269,7 +269,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case5/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case5/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -288,7 +288,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case7/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case7/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -300,7 +300,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case8/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case8/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -320,7 +320,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case9/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/poster_case9/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -335,7 +335,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case1/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/character_case1/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -347,7 +347,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case2/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/character_case2/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -366,7 +366,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case3/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/character_case3/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -391,7 +391,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case4/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/character_case4/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -405,7 +405,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case5/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/character_case5/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -440,7 +440,7 @@ Kusさん
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case1/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case1/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -454,7 +454,7 @@ Kusさん
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case2/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case2/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -466,7 +466,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case3/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case3/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -478,7 +478,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case4/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case4/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -490,7 +490,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case5/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case5/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -506,7 +506,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case7/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case7/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -518,7 +518,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case8/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/ui_case8/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -534,7 +534,7 @@ gpt-image-2
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case1/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case1/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -551,7 +551,7 @@ gpt-image-2
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case2/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case2/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -563,7 +563,7 @@ I’m honestly blown away. GPT IMAGE 2 doesn’t “prompt” scenes, it directs
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case3/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case3/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -577,7 +577,7 @@ Mark actions and camera moves right on a reference frame → 10x more context an
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case4/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case4/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -598,7 +598,7 @@ All in seconds. Same prompt, wildly different styles.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case5/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case5/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -614,7 +614,7 @@ Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case7/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case7/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -628,7 +628,7 @@ Link in the comment👇
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case8/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case8/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -642,7 +642,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case9/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case9/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -658,7 +658,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -674,7 +674,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case11/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case11/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -690,7 +690,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case12/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case12/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -705,7 +705,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case13/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case13/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -723,7 +723,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case14/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case14/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -745,7 +745,7 @@ GPT‑Image‑1.5なので同系のチャッピーでも
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case15/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case15/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -758,7 +758,7 @@ Skills化するか
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case16/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case16/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -784,7 +784,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case17/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case17/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -799,7 +799,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case18/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case18/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -815,7 +815,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case19/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case19/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -831,7 +831,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case20/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case20/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -848,7 +848,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case21/output.jpg" width="300" alt="Output image"></a> |
+| <img src="./images/comparison_case21/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -871,7 +871,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -884,7 +884,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGLIMdFWwAAVBD9.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGLIMdFWwAAVBD9.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -907,7 +907,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -926,7 +926,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMWXPObQAAPnA0.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGMWXPObQAAPnA0.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -954,7 +954,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -971,7 +971,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -988,7 +988,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1001,7 +1001,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGPvYyCaYAAAkeN.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGPvYyCaYAAAkeN.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1035,7 +1035,7 @@ Swap variables: [SUBJECT] / [STYLE] / [CONTEXT]
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="Output image"></a> |
+| <img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
