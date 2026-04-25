@@ -57,24 +57,24 @@
 - [Введение](#введение)
 - [Новости](#новости)
 - [Кейсы портретов и фотографии](#кейсы-портретов-и-фотографии)
-  - [Case 1: Convenience Store Neon Portrait (by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
-  - [Case 2: Cinematic Minimal Portrait (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
-  - [Case 3: Japanese Onsen Ryokan Portrait (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
-  - [Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
-  - [Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
-  - [Case 6: Soft Airy 35mm Portrait (by @BubbleBrain)](#case-6-soft-airy-35mm-portrait-by-bubblebrain)
-  - [Case 7: Luxury Glam Beauty Portrait (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
-  - [Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
-  - [Case 9: Urban Turn-Back Street Portrait (by @Tz_2022)](#case-9-urban-turn-back-street-portrait-by-tz_2022)
-  - [Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989)](#case-10-sam-altman-skatepark-snapshot-by-malek1173989)
-  - [Case 11: Korean Idol 3x3 Grid Portrait (by @BubbleBrain)](#case-11-korean-idol-3x3-grid-portrait-by-bubblebrain)
-  - [Case 12: CCD Camera Flash Korean Idol (by @BubbleBrain)](#case-12-ccd-camera-flash-korean-idol-by-bubblebrain)
-  - [Case 13: Korean Idol 3x3 Collage Portrait (by @BubbleBrain)](#case-13-korean-idol-3x3-collage-portrait-by-bubblebrain)
-  - [Case 14: Soft Black Mist Editorial Portrait (by @BubbleBrain)](#case-14-soft-black-mist-editorial-portrait-by-bubblebrain)
-  - [Case 15: Fujifilm Strawberry School Portrait (by @BubbleBrain)](#case-15-fujifilm-strawberry-school-portrait-by-bubblebrain)
-  - [Case 16: Soft Black Mist Idol Portrait (by @BubbleBrain)](#case-16-soft-black-mist-idol-portrait-by-bubblebrain)
-  - [Case 17: Fujifilm Couple Portrait (by @BubbleBrain)](#case-17-fujifilm-couple-portrait-by-bubblebrain)
-  - [Case 18: AI Self-Perception Portrait (by @80vul)](#case-18-ai-self-perception-portrait-by-80vul)
+  - [Case 1: Неоновый портрет в магазине у дома (by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
+  - [Case 2: Кинематографичный минималистичный портрет (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
+  - [Case 3: Портрет в японском рёкане с онсэном (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
+  - [Case 4: Эдиториальный портрет со вспышкой 35мм (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
+  - [Case 5: Селфи в зеркало в спальне (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
+  - [Case 6: Мягкий воздушный портрет 35мм (by @BubbleBrain)](#case-6-soft-airy-35mm-portrait-by-bubblebrain)
+  - [Case 7: Роскошный гламурный портрет красоты (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
+  - [Case 8: Скриншот портрета косплеера 9:16 (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
+  - [Case 9: Городской уличный портрет со спины (by @Tz_2022)](#case-9-urban-turn-back-street-portrait-by-tz_2022)
+  - [Case 10: Снимок Сэма Альтмана на скейтпарке (by @Malek1173989)](#case-10-sam-altman-skatepark-snapshot-by-malek1173989)
+  - [Case 11: Портрет корейского айдола в сетке 3x3 (by @BubbleBrain)](#case-11-korean-idol-3x3-grid-portrait-by-bubblebrain)
+  - [Case 12: Корейский айдол со вспышкой CCD-камеры (by @BubbleBrain)](#case-12-ccd-camera-flash-korean-idol-by-bubblebrain)
+  - [Case 13: Коллаж 3x3 корейского айдола (by @BubbleBrain)](#case-13-korean-idol-3x3-collage-portrait-by-bubblebrain)
+  - [Case 14: Эдиториальный портрет с мягкой чёрной дымкой (by @BubbleBrain)](#case-14-soft-black-mist-editorial-portrait-by-bubblebrain)
+  - [Case 15: Школьный портрет с клубникой Fujifilm (by @BubbleBrain)](#case-15-fujifilm-strawberry-school-portrait-by-bubblebrain)
+  - [Case 16: Портрет айдола с мягкой чёрной дымкой (by @BubbleBrain)](#case-16-soft-black-mist-idol-portrait-by-bubblebrain)
+  - [Case 17: Портрет пары Fujifilm (by @BubbleBrain)](#case-17-fujifilm-couple-portrait-by-bubblebrain)
+  - [Case 18: Портрет самовосприятия ИИ (by @80vul)](#case-18-ai-self-perception-portrait-by-80vul)
   - [Case 19: Реалистичная обложка винтажной газеты (by @Naiknelofar788)](#case-19-create-the-most-realistic-front-page-design-of-a-vintage-newspaper-featuring-by-naiknelofar788)
   - [Case 20: Статья о путешествиях в журнале (by @andis13)](#case-20-create-image-of-magazine-feature-article-travel-by-andis13)
   - [Case 21: Анализ фото и воссоздание через JSON Prompt (by @pavellaslov)](#case-21-analyze-this-photo-and-give-me-a-detailed-json-prompt-that-recreates-it-brea-by-pavellaslov)
@@ -83,50 +83,50 @@
   - [Case 24: Гиперреалистичный UI/UX макет на ноутбуке (by @ZaraIrahh)](#case-24-a-hyper-realistic-uiux-mockup-displayed-on-a-slim-modern-laptop-placed-on-a-by-zarairahh)
   - [Case 25: Ультрареалистичный кинематографический DSLR-портрет (by @harboriis)](#case-25-ultra-realistic-cinematic-dslr-photograph-of-an-18-year-old-handsome-young-ma-by-harboriis)
 - [Кейсы постеров и иллюстраций](#кейсы-постеров-и-иллюстраций)
-  - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
-  - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
-  - [Case 3: Chengdu Food Map Illustration (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
-  - [Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
-  - [Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
-  - [Case 7: Doodle Sketch AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
-  - [Case 8: Futuristic Mandala Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
-  - [Case 9: Super Famicom Poster Style (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
-  - [Case 10: Browser Game Ad Creative Poster (by @llllegend0620)](#case-10-browser-game-ad-creative-poster-by-llllegend0620)
-  - [Case 11: Surreal Koi Nebula Illustration (by @liyue_ai)](#case-11-surreal-koi-nebula-illustration-by-liyue_ai)
-  - [Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai)](#case-12-ink-curve-guangzhou-aesthetics-poster-by-liyue_ai)
-  - [Case 13: Guangdong Super League Invitation Poster (by @liyue_ai)](#case-13-guangdong-super-league-invitation-poster-by-liyue_ai)
-  - [Case 14: Spring 2026 Guangzhou Promo Poster (by @grok)](#case-14-spring-2026-guangzhou-promo-poster-by-grok)
-  - [Case 15: Epic Silhouette World Poster (by @Ghhhh3owi)](#case-15-epic-silhouette-world-poster-by-ghhhh3owi)
-  - [Case 24: Spring Guangzhou City Poster (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
-  - [Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
-  - [Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
-  - [Case 28: Extreme Perspective Typography Bridge (by @xpg0970)](#case-28-extreme-perspective-typography-bridge-by-xpg0970)
-  - [Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_)](#case-31-dreamy-watercolor-editorial-illustration-by-hmontilla_)
-  - [Case 32: Science Encyclopedia Vertical Poster (by @pfanis)](#case-32-science-encyclopedia-vertical-poster-by-pfanis)
-  - [Case 33: Journey to the West Chinese Comic (by @overseas58)](#case-33-journey-to-the-west-chinese-comic-by-overseas58)
-  - [Case 34: Character Relationship Map Poster (by @MrLarus)](#case-34-character-relationship-map-poster-by-mrlarus)
-  - [Case 35: New Chinese Ink Landscape Poster (by @liyue_ai)](#case-35-new-chinese-ink-landscape-poster-by-liyue_ai)
-  - [Case 36: AI Builder Doodle Sketch (by @opc_8838)](#case-36-ai-builder-doodle-sketch-by-opc_8838)
-  - [Case 38: Character Visual Vertical Poster (by @tebasaki3D)](#case-38-character-visual-vertical-poster-by-tebasaki3d)
-  - [Case 39: Science Encyclopedia Infographic (by @MrLarus)](#case-39-science-encyclopedia-infographic-by-mrlarus)
-  - [Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru)](#case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru)
-  - [Case 41: Product Ad Redesign (by @genel_ai)](#case-41-product-ad-redesign-by-genel_ai)
-  - [Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai)](#case-42-dark-fantasy-guangzhou-city-poster-by-liyue_ai)
-  - [Case 45: Science Fiction Movie Poster (by @underwoodxie96)](#case-45-science-fiction-movie-poster-by-underwoodxie96)
-  - [Case 46: Refreshing Summer Udon Ad (by @genel_ai)](#case-46-refreshing-summer-udon-ad-by-genel_ai)
-  - [Case 47: Handwritten Medical Prescription Sheet (by @MrLarus)](#case-47-handwritten-medical-prescription-sheet-by-mrlarus)
-  - [Case 48: Silicon Valley 2026 Promo Poster (by @carsonyungos)](#case-48-silicon-valley-2026-promo-poster-by-carsonyungos)
-  - [Case 49: Japanese Supermarket Sale Flyer (by @weel_corp)](#case-49-japanese-supermarket-sale-flyer-by-weel_corp)
-  - [Case 50: Dark Epic Concept Poster (by @A9Quant)](#case-50-dark-epic-concept-poster-by-a9quant)
-  - [Case 51: Pilates Studio Ad Poster (by @ck_igarashi)](#case-51-pilates-studio-ad-poster-by-ck_igarashi)
-  - [Case 52: 6-Block Fashion Campaign Prompt Formula (by @anacoding)](#case-52-6-block-fashion-campaign-prompt-formula-by-anacoding)
-  - [Case 53: Sony A7 Exploded View Breakdown Prompt (by @iaPulse_)](#case-53-sony-a7-exploded-view-breakdown-prompt-by-iapulse_)
-  - [Case 54: 1900 Istiklal Street Panorama Prompt (by @ai_gezgini)](#case-54-1900-istiklal-street-panorama-prompt-by-ai_gezgini)
+  - [Case 1: Городской постер Бостон Весна 2026 (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
+  - [Case 2: Винтажный туристический постер Амальфи (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
+  - [Case 3: Иллюстрация гастрономической карты Чэнду (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
+  - [Case 4: Китайский минималистичный постер S-формы (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
+  - [Case 5: Городской постер Гуанчжоу Весна 2026 (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
+  - [Case 7: Набросок ИИ-конструктора в стиле дудл (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
+  - [Case 8: Иллюстрация футуристической мандалы (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
+  - [Case 9: Стиль постера Супер Фамиком (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
+  - [Case 10: Креативный рекламный постер браузерной игры (by @llllegend0620)](#case-10-browser-game-ad-creative-poster-by-llllegend0620)
+  - [Case 11: Сюрреалистичная иллюстрация туманности Карп (by @liyue_ai)](#case-11-surreal-koi-nebula-illustration-by-liyue_ai)
+  - [Case 12: Постер эстетики Гуанчжоу с чернильной кривой (by @liyue_ai)](#case-12-ink-curve-guangzhou-aesthetics-poster-by-liyue_ai)
+  - [Case 13: Пригласительный постер Суперлиги Гуандун (by @liyue_ai)](#case-13-guangdong-super-league-invitation-poster-by-liyue_ai)
+  - [Case 14: Промо-постер Гуанчжоу Весна 2026 (by @grok)](#case-14-spring-2026-guangzhou-promo-poster-by-grok)
+  - [Case 15: Эпический мировой постер с силуэтом (by @Ghhhh3owi)](#case-15-epic-silhouette-world-poster-by-ghhhh3owi)
+  - [Case 24: Весенний городской постер Гуанчжоу (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
+  - [Case 26: Постер восточной эстетики Цюнци (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
+  - [Case 27: Городской постер Гуанчжоу в технике вырезки из бумаги (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
+  - [Case 28: Мост с типографикой в экстремальной перспективе (by @xpg0970)](#case-28-extreme-perspective-typography-bridge-by-xpg0970)
+  - [Case 31: Мечтательная акварельная эдиториальная иллюстрация (by @hmontilla_)](#case-31-dreamy-watercolor-editorial-illustration-by-hmontilla_)
+  - [Case 32: Вертикальный постер научной энциклопедии (by @pfanis)](#case-32-science-encyclopedia-vertical-poster-by-pfanis)
+  - [Case 33: Китайский комикс «Путешествие на Запад» (by @overseas58)](#case-33-journey-to-the-west-chinese-comic-by-overseas58)
+  - [Case 34: Постер карты взаимоотношений персонажей (by @MrLarus)](#case-34-character-relationship-map-poster-by-mrlarus)
+  - [Case 35: Постер пейзажа в новом китайском стиле туши (by @liyue_ai)](#case-35-new-chinese-ink-landscape-poster-by-liyue_ai)
+  - [Case 36: Набросок ИИ-конструктора в стиле дудл (by @opc_8838)](#case-36-ai-builder-doodle-sketch-by-opc_8838)
+  - [Case 38: Вертикальный визуальный постер персонажа (by @tebasaki3D)](#case-38-character-visual-vertical-poster-by-tebasaki3d)
+  - [Case 39: Инфографика научной энциклопедии (by @MrLarus)](#case-39-science-encyclopedia-infographic-by-mrlarus)
+  - [Case 40: Постер вымышленного аниме-фильма (by @seiiiiiiiiiiru)](#case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru)
+  - [Case 41: Редизайн рекламы продукта (by @genel_ai)](#case-41-product-ad-redesign-by-genel_ai)
+  - [Case 42: Постер города Гуанчжоу в стиле тёмного фэнтези (by @liyue_ai)](#case-42-dark-fantasy-guangzhou-city-poster-by-liyue_ai)
+  - [Case 45: Постер фантастического фильма (by @underwoodxie96)](#case-45-science-fiction-movie-poster-by-underwoodxie96)
+  - [Case 46: Освежающая летняя реклама удона (by @genel_ai)](#case-46-refreshing-summer-udon-ad-by-genel_ai)
+  - [Case 47: Лист рукописного медицинского рецепта (by @MrLarus)](#case-47-handwritten-medical-prescription-sheet-by-mrlarus)
+  - [Case 48: Промо-постер Силиконовой долины 2026 (by @carsonyungos)](#case-48-silicon-valley-2026-promo-poster-by-carsonyungos)
+  - [Case 49: Рекламный листок распродажи японского супермаркета (by @weel_corp)](#case-49-japanese-supermarket-sale-flyer-by-weel_corp)
+  - [Case 50: Тёмный эпический концепт-постер (by @A9Quant)](#case-50-dark-epic-concept-poster-by-a9quant)
+  - [Case 51: Рекламный постер студии пилатеса (by @ck_igarashi)](#case-51-pilates-studio-ad-poster-by-ck_igarashi)
+  - [Case 52: Формула промпта для фешн-кампании из 6 блоков (by @anacoding)](#case-52-6-block-fashion-campaign-prompt-formula-by-anacoding)
+  - [Case 53: Промпт взрывной схемы Sony A7 (by @iaPulse_)](#case-53-sony-a7-exploded-view-breakdown-prompt-by-iapulse_)
+  - [Case 54: Промпт панорамы улицы Истикляль 1900 года (by @ai_gezgini)](#case-54-1900-istiklal-street-panorama-prompt-by-ai_gezgini)
   - [Case 55: Ultra-Dense Information Design (by @EchoraContinuum)](#case-55-ultra-dense-information-design-by-echoracontinuum)
   - [Case 56: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp)](#case-56-cute-chinese-expeditionary-force-storyboard-by-rainhuangapp)
-  - [Case 57: Theme Science Encyclopedia Card (by @alanlovelq)](#case-57-theme-science-encyclopedia-card-by-alanlovelq)
-  - [Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurt_rousey466)
-  - [Case 56: Cinematic Infographic Concept Poster (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
+  - [Case 57: Тематическая карточка научной энциклопедии (by @alanlovelq)](#case-57-theme-science-encyclopedia-card-by-alanlovelq)
+  - [Case 55: Блок-схема приготовления свинины с чили (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurt_rousey466)
+  - [Case 56: Кинематографический концепт-постер инфографики (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
   - [Case 58: Уличный модный портрет в полный рост (by @AIwithSarah_)](#case-58-a-full-body-outdoor-shot-captures-a-young-caucasian-woman-possibly-in-her-la-by-aiwithsarah_)
   - [Case 59: Профессиональная фотография газированной воды (by @meng_dagg695)](#case-59-a-professional-product-photography-shot-of-a-cold-sparkling-water-by-meng_dagg695)
   - [Case 60: 360° эквидистантная панорама (by @rs_elwood)](#case-60-360-equirectangular-panorama-image)
@@ -140,23 +140,23 @@
   - [Case 68: Постер гоночного автомобиля со спецификациями (by @verysmallwoods)](#case-68-generate-an-image-of-a-racing-car-poster-with-its-spec-and-pricing-by-verysmallwoods)
   - [Case 69: Редизайн рекламного постера с Чарли Чаплином (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign)
 - [Кейсы дизайна персонажей](#кейсы-дизайна-персонажей)
-  - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
-  - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
-  - [Case 3: Gal Game Character Introduction Page (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
-  - [Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
-  - [Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will)](#case-7-mecha-girl-sea-city-key-visual-by-old_pgmrs_will)
-  - [Case 8: Saint Seiya Gold Saints Card Grid (by @songguoxiansen)](#case-8-saint-seiya-gold-saints-card-grid-by-songguoxiansen)
-  - [Case 9: Chaos Notes Hidden Face Character Art (by @loglogrog)](#case-9-chaos-notes-hidden-face-character-art-by-loglogrog)
+  - [Case 1: Конвертация аниме-снимка (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
+  - [Case 2: Справочная карточка персонажа Persona5 (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
+  - [Case 3: Страница представления персонажа Gal Game (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
+  - [Case 5: Официальный лист персонажа (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
+  - [Case 7: Ключевой визуал Меха-девушки в морском городе (by @old_pgmrs_will)](#case-7-mecha-girl-sea-city-key-visual-by-old_pgmrs_will)
+  - [Case 8: Сетка карточек Золотых Святых из Saint Seiya (by @songguoxiansen)](#case-8-saint-seiya-gold-saints-card-grid-by-songguoxiansen)
+  - [Case 9: Арт персонажа со скрытым лицом из Chaos Notes (by @loglogrog)](#case-9-chaos-notes-hidden-face-character-art-by-loglogrog)
 - [Кейсы UI и макетов соцсетей](#кейсы-ui-и-макетов-соцсетей)
-  - [Case 1: One-Prompt UI Design Generation (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
-  - [Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
-  - [Case 3: Handwritten Notebook Photo (by @patrickassale)](#case-3-handwritten-notebook-photo-by-patrickassale)
-  - [Case 4: Song Dynasty Social Media Feed (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
-  - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
-  - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
-  - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
-  - [Case 9: Style-to-UI Design System (by @stark_nico99)](#case-9-style-to-ui-design-system-by-stark_nico99)
-  - [Case 10: Momotaro Explainer Slide (by @yammamon)](#case-10-momotaro-explainer-slide-by-yammamon)
+  - [Case 1: Генерация UI-дизайна одним промптом (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
+  - [Case 2: Любительский снимок Keynote на iPhone (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
+  - [Case 3: Фото рукописного блокнота (by @patrickassale)](#case-3-handwritten-notebook-photo-by-patrickassale)
+  - [Case 4: Лента социальных сетей эпохи Сун (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
+  - [Case 5: Скриншоты контента с нескольких платформ (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
+  - [Case 7: Скриншот прямого эфира Лю Ифэй на Douyin (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
+  - [Case 8: Страница X короля Тэджо Ли Сонге (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
+  - [Case 9: Дизайн-система Стиль-в-UI (by @stark_nico99)](#case-9-style-to-ui-design-system-by-stark_nico99)
+  - [Case 10: Объясняющий слайд о Момотаро (by @yammamon)](#case-10-momotaro-explainer-slide-by-yammamon)
   - [Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
   - [Case 26: Glassy UI Design System (by @pfanis)](#case-26-glassy-ui-design-system-by-pfanis)
   - [Case 27: Japanese RPG Status Screen (by @Kashiko_AIart)](#case-27-japanese-rpg-status-screen-by-kashiko_aiart)
@@ -232,7 +232,7 @@
 ## Кейсы портретов и фотографии
 
 <!-- Case 1: Convenience Store Neon Portrait (by @BubbleBrain) -->
-### Case 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 1: [Неоновый портрет в магазине у дома](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -244,7 +244,7 @@
 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
 ```
 <!-- Case 2: Cinematic Minimal Portrait (by @iam_miharbi) -->
-### Case 2: [Cinematic Minimal Portrait](https://x.com/iam_miharbi/status/2045151354679665101) (by [@iam_miharbi](https://x.com/iam_miharbi))
+### Case 2: [Кинематографичный минималистичный портрет](https://x.com/iam_miharbi/status/2045151354679665101) (by [@iam_miharbi](https://x.com/iam_miharbi))
 
 | Output |
 | :----: |
@@ -256,7 +256,7 @@
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
 ```
 <!-- Case 3: Japanese Onsen Ryokan Portrait (by @BubbleBrain) -->
-### Case 3: [Japanese Onsen Ryokan Portrait](https://x.com/BubbleBrain/status/2045092449803284923) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 3: [Портрет в японском рёкане с онсэном](https://x.com/BubbleBrain/status/2045092449803284923) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -268,7 +268,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
 ```
 <!-- Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain) -->
-### Case 4: [35mm Flash Editorial Portrait](https://x.com/BubbleBrain/status/2045052982728016131) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 4: [Эдиториальный портрет со вспышкой 35мм](https://x.com/BubbleBrain/status/2045052982728016131) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -280,7 +280,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
 ```
 <!-- Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010) -->
-### Case 5: [Mirror Selfie Bedroom Portrait](https://x.com/Shinning1010/status/2045002808903020962) (by [@Shinning1010](https://x.com/Shinning1010))
+### Case 5: [Селфи в зеркало в спальне](https://x.com/Shinning1010/status/2045002808903020962) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Output |
 | :----: |
@@ -294,7 +294,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 ```
 
 <!-- Case 6: Soft Airy 35mm Portrait (by @BubbleBrain) -->
-### Case 6: [Soft Airy 35mm Portrait](https://x.com/BubbleBrain/status/2046115431144902732) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 6: [Мягкий воздушный портрет 35мм](https://x.com/BubbleBrain/status/2046115431144902732) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -307,7 +307,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 ```
 
 <!-- Case 7: Luxury Glam Beauty Portrait (by @patrickassale) -->
-### Case 7: [Luxury Glam Beauty Portrait](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
+### Case 7: [Роскошный гламурный портрет красоты](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
 
 | Output |
 | :----: |
@@ -319,7 +319,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
 ```
 <!-- Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen) -->
-### Case 8: [9:16 Cosplayer Portrait Screenshot](https://x.com/Zoulinshen/status/2045082518089810073) (by [@Zoulinshen](https://x.com/Zoulinshen))
+### Case 8: [Скриншот портрета косплеера 9:16](https://x.com/Zoulinshen/status/2045082518089810073) (by [@Zoulinshen](https://x.com/Zoulinshen))
 
 | Output |
 | :----: |
@@ -332,7 +332,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ```
 
 <!-- Case 9: Urban Turn-Back Street Portrait (by @Tz_2022) -->
-### Case 9: [Urban Turn-Back Street Portrait](https://x.com/Tz_2022/status/2045892003775361198) (by [@Tz_2022](https://x.com/Tz_2022))
+### Case 9: [Городской уличный портрет со спины](https://x.com/Tz_2022/status/2045892003775361198) (by [@Tz_2022](https://x.com/Tz_2022))
 
 | Output |
 | :----: |
@@ -345,7 +345,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ```
 
 <!-- Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989) -->
-### Case 10: [Sam Altman Skatepark Snapshot](https://x.com/Malek1173989/status/2045836887684694395) (by [@Malek1173989](https://x.com/Malek1173989))
+### Case 10: [Снимок Сэма Альтмана на скейтпарке](https://x.com/Malek1173989/status/2045836887684694395) (by [@Malek1173989](https://x.com/Malek1173989))
 
 | Output |
 | :----: |
@@ -358,7 +358,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ```
 
 <!-- Case 11: Korean Idol 3x3 Grid Portrait (by @BubbleBrain) -->
-### Case 11: [Korean Idol 3x3 Grid Portrait](https://x.com/BubbleBrain/status/2046268941941850575) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 11: [Портрет корейского айдола в сетке 3x3](https://x.com/BubbleBrain/status/2046268941941850575) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -371,7 +371,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ```
 
 <!-- Case 12: CCD Camera Flash Korean Idol (by @BubbleBrain) -->
-### Case 12: [CCD Camera Flash Korean Idol](https://x.com/BubbleBrain/status/2046190539213885806) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 12: [Корейский айдол со вспышкой CCD-камеры](https://x.com/BubbleBrain/status/2046190539213885806) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -384,7 +384,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ```
 
 <!-- Case 13: Korean Idol 3x3 Collage Portrait (by @BubbleBrain) -->
-### Case 13: [Korean Idol 3x3 Collage Portrait](https://x.com/BubbleBrain/status/2046151898621993364) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 13: [Коллаж 3x3 корейского айдола](https://x.com/BubbleBrain/status/2046151898621993364) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -397,7 +397,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ```
 
 <!-- Case 14: Soft Black Mist Editorial Portrait (by @BubbleBrain) -->
-### Case 14: [Soft Black Mist Editorial Portrait](https://x.com/BubbleBrain/status/2046434670724907395) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 14: [Эдиториальный портрет с мягкой чёрной дымкой](https://x.com/BubbleBrain/status/2046434670724907395) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -410,7 +410,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ```
 
 <!-- Case 15: Fujifilm Strawberry School Portrait (by @BubbleBrain) -->
-### Case 15: [Fujifilm Strawberry School Portrait](https://x.com/BubbleBrain/status/2046483268019884384) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 15: [Школьный портрет с клубникой Fujifilm](https://x.com/BubbleBrain/status/2046483268019884384) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -423,7 +423,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ```
 
 <!-- Case 16: Soft Black Mist Idol Portrait (by @BubbleBrain) -->
-### Case 16: [Soft Black Mist Idol Portrait](https://x.com/BubbleBrain/status/2046518189509734903) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 16: [Портрет айдола с мягкой чёрной дымкой](https://x.com/BubbleBrain/status/2046518189509734903) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -436,7 +436,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ```
 
 <!-- Case 17: Fujifilm Couple Portrait (by @BubbleBrain) -->
-### Case 17: [Fujifilm Couple Portrait](https://x.com/BubbleBrain/status/2046502288102170757) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 17: [Портрет пары Fujifilm](https://x.com/BubbleBrain/status/2046502288102170757) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -449,7 +449,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ```
 
 <!-- Case 18: AI Self-Perception Portrait (by @80vul) -->
-### Case 18: [AI Self-Perception Portrait](https://x.com/80vul/status/2046218165961753047) (by [@80vul](https://x.com/80vul))
+### Case 18: [Портрет самовосприятия ИИ](https://x.com/80vul/status/2046218165961753047) (by [@80vul](https://x.com/80vul))
 
 | Output |
 | :----: |
@@ -622,7 +622,7 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 ## Кейсы постеров и иллюстраций
 
 <!-- Case 1: Boston Spring 2026 City Poster (by @BubbleBrain) -->
-### Case 1: [Boston Spring 2026 City Poster](https://x.com/BubbleBrain/status/2045358053831172358) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 1: [Городской постер Бостон Весна 2026](https://x.com/BubbleBrain/status/2045358053831172358) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | Output |
 | :----: |
@@ -634,7 +634,7 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
 ```
 <!-- Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo) -->
-### Case 2: [Vintage Amalfi Travel Poster](https://x.com/WolfRiccardo/status/2044562722491121718) (by [@WolfRiccardo](https://x.com/WolfRiccardo))
+### Case 2: [Винтажный туристический постер Амальфи](https://x.com/WolfRiccardo/status/2044562722491121718) (by [@WolfRiccardo](https://x.com/WolfRiccardo))
 
 | Output |
 | :----: |
@@ -646,7 +646,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
 ```
 <!-- Case 3: Chengdu Food Map Illustration (by @Panda20230902) -->
-### Case 3: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
+### Case 3: [Иллюстрация гастрономической карты Чэнду](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 
 | Output |
 | :----: |
@@ -658,7 +658,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
 ```
 <!-- Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai) -->
-### Case 4: [Chinese Minimalist S-Shaped Poster](https://x.com/liyue_ai/status/2045368305079447853) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 4: [Китайский минималистичный постер S-формы](https://x.com/liyue_ai/status/2045368305079447853) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -678,7 +678,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 下方题字“东方美学”以黑色楷体书写，日期“2026/04/18”与红色印章相呼应，底部“CHINA”字样庄重醒目，署名“@LIYUE”低调收尾，整体氛围静谧深远，充满诗意与哲思。
 ```
 <!-- Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai) -->
-### Case 5: [2026 Spring Guangzhou City Poster](https://x.com/liyue_ai/status/2045332620352119274) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 5: [Городской постер Гуанчжоу Весна 2026](https://x.com/liyue_ai/status/2045332620352119274) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -697,7 +697,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 7: Doodle Sketch AI Builder (by @blanplan) -->
-### Case 7: [Doodle Sketch AI Builder](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
+### Case 7: [Набросок ИИ-конструктора в стиле дудл](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
 
 | Output |
 | :----: |
@@ -709,7 +709,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
 ```
 <!-- Case 8: Futuristic Mandala Illustration (by @4WEB1) -->
-### Case 8: [Futuristic Mandala Illustration](https://x.com/4WEB1/status/2045390207072256179) (by [@4WEB1](https://x.com/4WEB1))
+### Case 8: [Иллюстрация футуристической мандалы](https://x.com/4WEB1/status/2045390207072256179) (by [@4WEB1](https://x.com/4WEB1))
 
 | Output |
 | :----: |
@@ -721,7 +721,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 曼荼羅の近未来SF版を描いて
 ```
 <!-- Case 9: Super Famicom Poster Style (by @lilimliliychan) -->
-### Case 9: [Super Famicom Poster Style](https://x.com/lilimliliychan/status/2045114760937804187) (by [@lilimliliychan](https://x.com/lilimliliychan))
+### Case 9: [Стиль постера Супер Фамиком](https://x.com/lilimliliychan/status/2045114760937804187) (by [@lilimliliychan](https://x.com/lilimliliychan))
 
 | Output |
 | :----: |
@@ -734,7 +734,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 10: Browser Game Ad Creative Poster (by @llllegend0620) -->
-### Case 10: [Browser Game Ad Creative Poster](https://x.com/llllegend0620/status/2045963764466688065) (by [@llllegend0620](https://x.com/llllegend0620))
+### Case 10: [Креативный рекламный постер браузерной игры](https://x.com/llllegend0620/status/2045963764466688065) (by [@llllegend0620](https://x.com/llllegend0620))
 
 | Output |
 | :----: |
@@ -750,7 +750,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 11: Surreal Koi Nebula Illustration (by @liyue_ai) -->
-### Case 11: [Surreal Koi Nebula Illustration](https://x.com/liyue_ai/status/2045875219307655337) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 11: [Сюрреалистичная иллюстрация туманности Карп](https://x.com/liyue_ai/status/2045875219307655337) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -763,7 +763,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai) -->
-### Case 12: [Ink-Curve Guangzhou Aesthetics Poster](https://x.com/liyue_ai/status/2045873940883808523) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 12: [Постер эстетики Гуанчжоу с чернильной кривой](https://x.com/liyue_ai/status/2045873940883808523) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -776,7 +776,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 13: Guangdong Super League Invitation Poster (by @liyue_ai) -->
-### Case 13: [Guangdong Super League Invitation Poster](https://x.com/liyue_ai/status/2045772039521542202) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 13: [Пригласительный постер Суперлиги Гуандун](https://x.com/liyue_ai/status/2045772039521542202) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -789,7 +789,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 14: Spring 2026 Guangzhou Promo Poster (by @grok) -->
-### Case 14: [Spring 2026 Guangzhou Promo Poster](https://x.com/grok/status/2046012437086818395) (by [@grok](https://x.com/grok))
+### Case 14: [Промо-постер Гуанчжоу Весна 2026](https://x.com/grok/status/2046012437086818395) (by [@grok](https://x.com/grok))
 
 | Output |
 | :----: |
@@ -802,7 +802,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 15: Epic Silhouette World Poster (by @Ghhhh3owi) -->
-### Case 15: [Epic Silhouette World Poster](https://x.com/Ghhhh3owi/status/2045803217251102897) (by [@Ghhhh3owi](https://x.com/Ghhhh3owi))
+### Case 15: [Эпический мировой постер с силуэтом](https://x.com/Ghhhh3owi/status/2045803217251102897) (by [@Ghhhh3owi](https://x.com/Ghhhh3owi))
 
 | Output |
 | :----: |
@@ -815,7 +815,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 24: Spring Guangzhou City Poster (by @alanlovelq) -->
-### Case 24: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
+### Case 24: [Весенний городской постер Гуанчжоу](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
 
 | Output |
 | :----: |
@@ -834,7 +834,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
-### Case 26: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 26: [Постер восточной эстетики Цюнци](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -851,7 +851,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
-### Case 27: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 27: [Городской постер Гуанчжоу в технике вырезки из бумаги](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -868,7 +868,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 28: Extreme Perspective Typography Bridge (by @xpg0970) -->
-### Case 28: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
+### Case 28: [Мост с типографикой в экстремальной перспективе](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
 
 | Output |
 | :----: |
@@ -881,7 +881,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 
 <!-- Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
-### Case 31: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
+### Case 31: [Мечтательная акварельная эдиториальная иллюстрация](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
 
 | Output |
 | :----: |
@@ -894,7 +894,7 @@ Ilustración en acuarela de estilo onírico de [sujeto], con estética impresion
 ```
 
 <!-- Case 32: Science Encyclopedia Vertical Poster (by @pfanis) -->
-### Case 32: [Science Encyclopedia Vertical Poster](https://x.com/pfanis/status/2046413660147314714) (by [@pfanis](https://x.com/pfanis))
+### Case 32: [Вертикальный постер научной энциклопедии](https://x.com/pfanis/status/2046413660147314714) (by [@pfanis](https://x.com/pfanis))
 
 | Output |
 | :----: |
@@ -907,7 +907,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 33: Journey to the West Chinese Comic (by @overseas58) -->
-### Case 33: [Journey to the West Chinese Comic](https://x.com/overseas58/status/2046271877577097376) (by [@overseas58](https://x.com/overseas58))
+### Case 33: [Китайский комикс «Путешествие на Запад»](https://x.com/overseas58/status/2046271877577097376) (by [@overseas58](https://x.com/overseas58))
 
 | Output |
 | :----: |
@@ -920,7 +920,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 34: Character Relationship Map Poster (by @MrLarus) -->
-### Case 34: [Character Relationship Map Poster](https://x.com/MrLarus/status/2046263153546174935) (by [@MrLarus](https://x.com/MrLarus))
+### Case 34: [Постер карты взаимоотношений персонажей](https://x.com/MrLarus/status/2046263153546174935) (by [@MrLarus](https://x.com/MrLarus))
 
 | Output |
 | :----: |
@@ -933,7 +933,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 35: New Chinese Ink Landscape Poster (by @liyue_ai) -->
-### Case 35: [New Chinese Ink Landscape Poster](https://x.com/liyue_ai/status/2046215276249993720) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 35: [Постер пейзажа в новом китайском стиле туши](https://x.com/liyue_ai/status/2046215276249993720) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -946,7 +946,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 36: AI Builder Doodle Sketch (by @opc_8838) -->
-### Case 36: [AI Builder Doodle Sketch](https://x.com/opc_8838/status/2046162334440448339) (by [@opc_8838](https://x.com/opc_8838))
+### Case 36: [Набросок ИИ-конструктора в стиле дудл](https://x.com/opc_8838/status/2046162334440448339) (by [@opc_8838](https://x.com/opc_8838))
 
 | Output |
 | :----: |
@@ -959,7 +959,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 38: Character Visual Vertical Poster (by @tebasaki3D) -->
-### Case 38: [Character Visual Vertical Poster](https://x.com/tebasaki3D/status/2046371076402503709) (by [@tebasaki3D](https://x.com/tebasaki3D))
+### Case 38: [Вертикальный визуальный постер персонажа](https://x.com/tebasaki3D/status/2046371076402503709) (by [@tebasaki3D](https://x.com/tebasaki3D))
 
 | Output |
 | :----: |
@@ -972,7 +972,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 39: Science Encyclopedia Infographic (by @MrLarus) -->
-### Case 39: [Science Encyclopedia Infographic](https://x.com/MrLarus/status/2046231542817497392) (by [@MrLarus](https://x.com/MrLarus))
+### Case 39: [Инфографика научной энциклопедии](https://x.com/MrLarus/status/2046231542817497392) (by [@MrLarus](https://x.com/MrLarus))
 
 | Output |
 | :----: |
@@ -1003,7 +1003,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru) -->
-### Case 40: [Fictional Anime Movie Poster](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
+### Case 40: [Постер вымышленного аниме-фильма](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
 
 | Output |
 | :----: |
@@ -1016,7 +1016,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 41: Product Ad Redesign (by @genel_ai) -->
-### Case 41: [Product Ad Redesign](https://x.com/genel_ai/status/2046498264774791514) (by [@genel_ai](https://x.com/genel_ai))
+### Case 41: [Редизайн рекламы продукта](https://x.com/genel_ai/status/2046498264774791514) (by [@genel_ai](https://x.com/genel_ai))
 
 | Output |
 | :----: |
@@ -1030,7 +1030,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai) -->
-### Case 42: [Dark-Fantasy Guangzhou City Poster](https://x.com/liyue_ai/status/2046243132774494607) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 42: [Постер города Гуанчжоу в стиле тёмного фэнтези](https://x.com/liyue_ai/status/2046243132774494607) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -1055,7 +1055,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 
 <!-- Case 45: Science Fiction Movie Poster (by @underwoodxie96) -->
-### Case 45: [Science Fiction Movie Poster](https://x.com/underwoodxie96/status/2046514205529088501) (by [@underwoodxie96](https://x.com/underwoodxie96))
+### Case 45: [Постер фантастического фильма](https://x.com/underwoodxie96/status/2046514205529088501) (by [@underwoodxie96](https://x.com/underwoodxie96))
 
 | Output |
 | :----: |
@@ -1068,7 +1068,7 @@ Create a Science fiction movie poster
 ```
 
 <!-- Case 46: Refreshing Summer Udon Ad (by @genel_ai) -->
-### Case 46: [Refreshing Summer Udon Ad](https://x.com/genel_ai/status/2046501692246470871) (by [@genel_ai](https://x.com/genel_ai))
+### Case 46: [Освежающая летняя реклама удона](https://x.com/genel_ai/status/2046501692246470871) (by [@genel_ai](https://x.com/genel_ai))
 
 | Output |
 | :----: |
