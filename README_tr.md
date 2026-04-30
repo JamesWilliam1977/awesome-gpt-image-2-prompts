@@ -42,38 +42,33 @@ Faydali bulduysaniz bir yildiz vermeyi dusunun. ⭐
 
 ## Haberler
 
+- **30 Nisan 2026:** Son 24 saatlik arama partisinden onaylanmis ve medyasi dogrulanmis 9 yeni GPT-Image-2 prompt vakasi eklendi (3 portre, 1 poster, 3 UI, 2 karsilastirma)
 - **29 Nisan 2026:** Inceleme partileri genelinde 22 yeni GPT-Image-2 prompt vakasi eklendi (3 e-ticaret, 3 reklam kreatifi, 4 portre, 2 karakter tasarimi, 9 poster, 1 karsilastirma), Case 102 ve 103 icin yerellestirilmis prompt girisleri senkronize edildi ve daha genis valid keep-set taramasi dahil edildi
-- **26 Nisan 2026:** 9 yeni GPT-Image-2 prompt vakası eklendi (1 karakter tasarımı, 7 poster, 1 UI)
-- **25 Nisan 2026:** 81 yeni GPT-Image-2 prompt vakası eklendi (2 karakter tasarımı, 20 portre, 42 poster, 17 UI)
-- **24 Nisan 2026:** 19 yeni GPT-Image-2 prompt vakası eklendi (6 karşılaştırma, 6 poster, 7 UI)
-- **23 Nisan 2026:** 5 yeni GPT-Image-2 prompt vakası eklendi (5 UI)
-- **20 Nisan 2026:** 2 yeni GPT-Image-2 prompt vakası eklendi (1 karakter tasarımı, 1 poster)
-- **19 Nisan 2026:** 5 yeni GPT-Image-2 prompt vakası eklendi (3 poster, 2 UI)
-- **17 Nisan 2026:** 1 yeni GPT-Image-2 prompt vakası eklendi (1 poster)
-- **16 Nisan 2026:** 1 yeni GPT-Image-2 prompt vakası eklendi (1 poster)
-- **25 Nisan 2026:** Portre, poster ve UI bolumlerine 22 yeni GPT-Image-2 prompt vakasi eklendi
-- **23 Nisan 2026:** `README.md` ve tum yerellestirilmis README dosyalarinda case title'lar standartlastirildi; menu ogeleri, anchor'lar ve vaka basliklari guncellendi
 - **21 Nisan 2026:** 48 yeni prompt vakasi galeri bolumlerine kategorilendi ve baglantili cikti gorselleri indirildi
 - **21 Nisan 2026:** Portre, poster, UI ve karsilastirma vakalarina 12 yeni GPT-Image-2 promptu eklendi
 - **20 Nisan 2026:** Yerel gorsel varliklari ve README guncellemeleriyle birlikte 10 yeni derlenmis GPT-Image-2 promptu eklendi.
 - **19 Nisan 2026:** Poster, UI ve karsilastirma vakalarina 10 yeni GPT-Image-2 promptu eklendi
 - **18 Nisan 2026:** Derlenmis GPT-Image-2 vaka setiyle deponun ilk yayini
+- **20 Nisan 2026:** Yerel gorsel varliklari ve README guncellemeleriyle birlikte 10 yeni derlenmis GPT-Image-2 promptu eklendi.
+- **19 Nisan 2026:** Poster, UI ve karsilastirma vakalarina 10 yeni GPT-Image-2 promptu eklendi
+- **18 Nisan 2026:** Derlenmis GPT-Image-2 vaka setiyle deponun ilk yayini
 
-## 📑 Menu
+## Icindekiler
 
-- [Giris](#giris)
-- [Haberler](#haberler)
+- [🍌 Introduction](#introduction)
+- [📰 News](#news)
+- [📑 Menu](#menu)
 - [🛒 E-commerce Cases](#e-commerce-cases)
 - [📣 Ad Creative Cases](#ad-creative-cases)
-- [Portre ve Fotografcilik Vakalari](#portre-ve-fotografcilik-vakalari)
-- [Poster ve Illustrasyon Vakalari](#poster-ve-illustrasyon-vakalari)
-- [Karakter Tasarimi Vakalari](#karakter-tasarimi-vakalari)
-- [UI ve Sosyal Medya Mockup Vakalari](#ui-ve-sosyal-medya-mockup-vakalari)
-- [Karsilastirma ve Topluluk Ornekleri](#karsilastirma-ve-topluluk-ornekleri)
-
+- [🍌 Portrait & Photography Cases](#portrait-photography-cases)
+- [🎨 Poster & Illustration Cases](#poster-illustration-cases)
+- [🧍 Character Design Cases](#character-design-cases)
+- [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
+- [🧪 Comparison & Community Examples](#comparison-community-examples)
+- [🙏 Acknowledge](#acknowledge)
 ## 🛒 E-commerce Cases
 
-> See all cases → [cases/ecommerce_tr.md](cases/ecommerce_tr.md)
+> See all cases → [cases/ecommerce.md](cases/ecommerce.md)
 
 ### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
 
@@ -115,7 +110,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 ## 📣 Ad Creative Cases
 
-> See all cases → [cases/ad-creative_tr.md](cases/ad-creative_tr.md)
+> See all cases → [cases/ad-creative.md](cases/ad-creative.md)
 
 ### Case 144: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
 
@@ -153,9 +148,9 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”
 ```
 
-## 🍌 Portre ve Fotografcilik Vakalari
+## 🍌 Portrait & Photography Cases
 
-> See all cases → [cases/portrait_tr.md](cases/portrait_tr.md)
+> See all cases → [cases/portrait.md](cases/portrait.md)
 
 ### Case 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
@@ -192,9 +187,76 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 A dreamy surreal portrait of a {argument name="subject" default="young woman"} standing underwater or in a liquid-like ethereal space, shown from about mid-thigh up, wearing a flowing sleeveless white dress that appears to dissolve into translucent water and shimmering fragments. Her long {argument name="hair color" default="dark brown"} hair streams dramatically sideways as if suspended in water, and her face is intentionally obscured by a soft vertical blur block for anonymity. Surround her with an exact count of about 30 small translucent fish, some striped and some pale silvery white, swimming in multiple depths of field across the foreground, midground, and background, with several fish passing in front of her body and hair to create strong motion and depth. Use a soft pastel {argument name="background color" default="powder blue"} background with faint handwritten script texture layered across it, plus whimsical doodles scattered throughout: white and pale pink hearts, stars, curved squiggles, wave lines, dots, sparkles, and 2 smiley faces. Add prismatic rainbow refractions, glossy caustic highlights, and subtle lens-like chromatic shimmer on the fish and dress. The mood should feel delicate, introspective, airy, and magical, with high-key lighting, gentle contrast, soft focus in the foreground, and crisp detail on the torso and hair. Compose the figure slightly off-center with one arm relaxed downward and the body turned lightly in motion, as if drifting peacefully through a school of fish. Include tiny elegant footer text in white near the bottom edge, with a left signature, a centered website URL, and a small right credit mark, resembling an art-poster or social-media showcase image.
 ```
 
-## 🎨 Poster ve Illustrasyon Vakalari
+### Case 100: [Monochrome Glitch Profile Portrait](https://x.com/Goodmanprotocol/status/2049733639651385759) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
-> See all cases → [cases/poster_tr.md](cases/poster_tr.md)
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case100/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+Subject: A sharp, high-contrast side-profile portrait of a handsome man with a defined jawline, short stubble, and voluminous, textured dark hair styled upwards.
+
+Style & Composition: A fusion of realistic photography and abstract digital glitch art. The subject is rendered in stark black and white, set against a clean, minimalist white background.
+
+Color Palette: Strictly monochromatic (deep blacks and bright whites) with aggressive, vibrant splashes of crimson red.
+
+Graphic Elements: > * Glitch Effect: The back of the head and the lower torso dissolve into abstract geometric shards, pixel sorting, and "glitchy" red brushstrokes.
+
+Texture: Gritty, ink-wash textures and distressed digital overlays that suggest a modern noir or cyberpunk editorial feel.
+
+Lighting & Technicals: > * Lighting: Intense side-lighting (Chiaroscuro) creating deep shadows on the face to highlight bone structure.
+
+Details: Hyper-realistic skin texture, individual hair strands visible, high-grain film aesthetic.
+
+Framing: Vertical aspect ratio, close-up profile shot.
+
+Aspect ratio is 9:16
+```
+
+### Case 101: [Basketball Boy Motion Sequence](https://x.com/Taaruk_/status/2049702491768684839) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case101/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+A photorealistic video sequence captures a young boy with messy orange hair and thick-framed glasses, as seen in image_0.png, image_1.png, and other source frames. He is dressed in a black basketball jersey and matching shorts with purple and blue trim, featuring the text "WIZZGEN 23" on the front and "CHICAGO 23" on the back (image_4.png). The setting is an outdoor asphalt city basketball court with green trees and a visible basketball hoop. The action begins with the boy in a low stance, dribbling the ball between his legs (image_0.png through image_3.png), then transitions to him standing taller and performing crossovers (image_5.png through image_7.png), followed by him successfully spinning the ball on his finger (image_8.png), and finally posing with a peace sign while holding the ball (image_9.png). The lighting is soft daylight under an overcast sky.
+```
+
+### Case 102: [Golden Hour Street Side-Profile Portrait](https://x.com/Professor_134/status/2049701241287311561) (by [@Professor_134](https://x.com/Professor_134))
+
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case102/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+- Cinematic golden hour street portrait of a young woman in side profile, walking through a busy city crowd, soft wind blowing through her long light-brown hair, individual strands glowing in backlight, warm sunlight flaring through her hair creating a natural halo effect, dreamy atmosphere, shallow depth of field, strong subject separation, background filled with softly blurred pedestrians and urban motion bokeh.
+
+She has delicate facial features, natural skin texture, subtle makeup, calm introspective expression, slightly parted lips, looking off-frame. Wearing a minimal outfit (dark neutral tones), possibly a light jacket, modern casual style.
+
+Lighting is rich golden hour sunlight, strong backlighting with lens flare, cinematic highlights, warm orange and amber tones, high dynamic range, soft shadows, volumetric light rays passing through hair and environment.
+
+Shot on a telephoto lens (85mm–135mm look), f/1.8 aperture, ultra-realistic, high detail, film still quality, natural color grading, slight film grain, soft bloom, editorial photography style, Vogue aesthetic.
+
+Composition: rule of thirds, subject slightly off-center, crowd motion blur behind her, dynamic yet intimate framing.
+
+Mood: nostalgic, dreamy, romantic, fleeting moment, poetic realism.
+
+Style keywords: cinematic, photorealistic, golden hour glow, bokeh, volumetric lighting, shallow depth of field, editorial portrait, soft focus highlights, warm tones, natural skin texture
+
+Negative prompt: low quality, overexposed face, harsh shadows, distorted facial features, extra limbs, blur on subject, noise, oversharpening, artificial skin, cartoonish look
+Generate image using uploaded image as reference
+```
+
+## 🎨 Poster & Illustration Cases
+
+> See all cases → [cases/poster.md](cases/poster.md)
 
 ### Case 3: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 
@@ -233,9 +295,29 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 ```
 
 
-## 🧍 Karakter Tasarimi Vakalari
+### Case 175: [Fitness Boxing Campaign Collage Poster](https://x.com/AIwithSynthia/status/2049718330353975652) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
-> See all cases → [cases/character_tr.md](cases/character_tr.md)
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case175/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+Create a high-end fitness boxing poster in a 3-panel collage layout.
+Top panel:
+A strong athletic woman boxer wearing a red boxing outfit (sports bra, shorts, boxing gloves, high socks, boxing shoes) leaning confidently against a worn heavy punching bag. Studio background with large bold red typography behind her (word like “FOCUS” or “IMPACT” in oversized distressed font). Clean minimal lighting, editorial fitness campaign style.
+Bottom left panel:
+Close-up portrait of the same woman (shoulders and face). Slight sweat, sharp jawline, focused expression looking sideways. Boxing gloves visible near frame. Background includes large faded typography partially visible.
+Bottom right panel:
+Full-body action pose of the woman throwing a punch at the punching bag. Dynamic stance, strong posture, gloves in motion. Same studio setup and typography in background (different word like “STRENGTH” or “DISCIPLINE”).
+Overall style:
+premium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.
+```
+
+## 🧍 Character Design Cases
+
+> See all cases → [cases/character.md](cases/character.md)
 
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
 
@@ -276,9 +358,9 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 {argument name="game" default="gta 6"} in {argument name="location" default="Bangalore’s market flower"} in India
 ```
 
-## 📱 UI ve Sosyal Medya Mockup Vakalari
+## 📱 UI & Social Media Mockup Cases
 
-> See all cases → [cases/ui_tr.md](cases/ui_tr.md)
+> See all cases → [cases/ui.md](cases/ui.md)
 
 ### Case 1: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
 
@@ -315,9 +397,155 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 Create a {argument name="grid layout" default="4x3"} borderless grid where each panel is an independent image of the {argument name="subject" default="a young woman"}. Maintain strong subject consistency across all panels, with consistent color and lighting. Depict {argument name="theme" default="childhood memories"} with a {argument name="mood" default="warm, nostalgic"} mood in {argument name="style" default="nostalgic cinematic realism"} style. No text. No gap.
 ```
 
-## 🧪 Karsilastirma ve Topluluk Ornekleri
+### Case 106: [Personal Color Analysis Graphic Board](https://x.com/ZaraIrahh/status/2049730770474877234) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
-> See all cases → [cases/comparison_tr.md](cases/comparison_tr.md)
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case106/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.
+```
+
+### Case 107: [Futuristic Hall Fashion Shot Sequence](https://x.com/weiinberg/status/2049730563393884265) (by [@weiinberg](https://x.com/weiinberg))
+
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case107/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+Frame 1 (Top-Down Establishing)
+Extreme top-down shot in futuristic white curved hall, subject centered but compressed against smooth reflective floor, body aligned straight but slightly angled, arms close to body with subtle tension, head tilted upward toward camera, gaze directed straight up, strong circular architectural lines framing composition, soft studio lighting creating gentle gradients, shallow depth of field at f/1.2, smartphone-like proximity despite height, clean minimal atmosphere, dynamic opening frame, subtle athletic readiness, wearing full beige suit with white t-shirt and white sleek sneakers, Peter Lindbergh influence
+Frame 2 (Low Angle Power)
+Extreme low angle from floor level, subject towering above camera, legs forming strong base, torso slightly leaning forward, shoulders squared, arms slightly away from body, head angled downward, gaze into lens, strong vertical distortion, reflective floor amplifying silhouette, soft studio lighting with controlled highlights, shallow depth f/1.2, powerful dominance frame, subtle athletic tension, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 3 (Wide Isolation)
+Wide long shot, subject very small within vast futuristic hall, surrounded by curved white architecture, large negative space dominating composition, subject standing still, body straight, arms relaxed but structured, head slightly turned, gaze outward into space, minimal reflections, soft even lighting, shallow depth f/1.2 isolating subject despite distance, cinematic silence, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 4 (Dynamic Close-Up Tilt)
+Close-up with strong diagonal tilt, subject leaning into frame, shoulders sharply angled, one arm crossing body, head tilted sideways, gaze slightly off camera, tight crop cutting part of body, soft lighting wrapping contours, shallow depth f/1.2 isolating face plane, intense proximity and tension, full beige suit, white t-shirt visible, Peter Lindbergh influence
+Frame 5 (Motion Step Forward)
+Mid shot, subject stepping forward dynamically, one leg extended, weight shifting, arms slightly swinging with controlled motion, shoulders rotated, head facing forward, gaze ahead, slight motion blur on edges, futuristic curved walls passing behind, soft studio lighting, shallow depth f/1.2, transitional energy frame, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 6 (Final Grounded Frame)
+Full body frontal shot, subject standing firmly, legs slightly apart, arms held with controlled tension, shoulders squared, head facing forward, gaze into camera, symmetrical composition slightly offset, minimal futuristic background, soft lighting emphasizing structure, shallow depth f/1.2, strong final impact frame, subtle athletic readiness, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+
+Negative Commands (apply to all frames):
+no text, no watermark, no low quality, no cartoonish style
+
+Aspect Ratio: 3:4
+```
+
+### Case 108: [High-Fashion Beverage Campaign Board](https://x.com/SPEEDAI07/status/2049713995851202786) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case109/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.
+
+A stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.
+
+Foreground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.
+
+Typography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN
+
+Use refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.
+
+Add subtle microcopy: “Botanical. Bright. Made to sparkle.”
+
+Minimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ
+
+Bottom strip: 3 cans styled like a luxury product lineup with fruit + herbs arranged like still life photography:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA: SHOP FLAVORS →
+
+Style: Vogue campaign, luxury branding, cinematic lighting, ultra-realistic, muted tones, high contrast, premium finish.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🌿 2. Minimal Premium (Apple-style)
+
+Prompt:
+
+Create a minimalist premium beverage ad with a sunlit rooftop setting and extremely clean composition.
+
+Background: soft gradient sky with warm golden-hour tones, minimal distractions, large negative space.
+
+A relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.
+
+Centerpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.
+
+Typography: SUN IN EVERY SIP
+
+Use modern minimal typography, centered, with generous spacing.
+
+Supporting line: “Real botanicals. Effortless refreshment.”
+
+Icons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ
+
+Bottom section: 3 cans evenly spaced, perfectly aligned with subtle shadows:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA button (pill-shaped): SHOP FLAVORS
+
+Style: Apple-level minimalism, ultra-clean layout, soft gradients, modern luxury, highly polished product rendering.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🍊 3. Bold Gen Z Premium Version
+
+Prompt:
+
+Create a bold, scroll-stopping vertical beverage ad set on a rooftop during golden hour with vibrant citrus energy.
+
+Lighting: warm, saturated sunlight, glowing highlights, high contrast.
+
+A confident male model drinks directly from the can mid-action, candid and dynamic.
+
+Hero can: oversized, slightly exaggerated scale on a textured stone pedestal, covered in condensation.
+
+Typography: DRINK THE SUN
+
+Use large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.
+
+Tagline: “Fresh. Bright. Addictive.”
+
+Feature icons arranged dynamically: LOW SUGAR
+REAL FRUIT
+LIGHTLY SPARKLING
+12 OZ
+
+Bottom: 3 cans with energetic ingredient styling:
+
+Blood Orange Basil (splashes, citrus slices)
+
+Peach Ginger (fresh peach + ginger root)
+
+Lime Mint (lime wedges + mint leaves)
+
+CTA: SHOP FLAVORS →
+
+Style: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.
+Aspect ratio: vertical (9:16 preferred)
+```
+
+## 🧪 Comparison & Community Examples
+
+> See all cases → [cases/comparison.md](cases/comparison.md)
 
 ### Case 35: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
 
@@ -400,6 +628,30 @@ Generate an image of the most significant event of 2020
 写实风格，非示意图，非卡通，非简化图解。
 每一种材质都有真实的物理质感：
 粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
+```
+
+### Case 69: [视觉品牌拆解图](https://x.com/X7649158034321/status/2049721847001047274) (by [@X7649158034321](https://x.com/X7649158034321))
+
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case69/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+请帮我生成一张视觉品牌拆解图，稍后我需要用来生成讲解的视频。
+```
+
+### Case 70: [Apartment Drama Animation Storyboard Sheet](https://x.com/CurieuxExplorer/status/2049709975040401601) (by [@CurieuxExplorer](https://x.com/CurieuxExplorer))
+
+| Sonuc |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case70/output.jpg" width="300" alt="Cikti gorseli"></a> |
+
+**Prompt：**
+
+```
+Create a new animation sheet, but this time it's a storyboard between an Indian man and an Indian woman in a dramatic scene inside an apartment. Ensure the elements of the apartment are in the scene, and include dialogue boxes, this is for 15 seconds so be careful of the cadence (sentences not too long), when a character speaks they should be the only one in frame.
 ```
 
 ## Tesekkurler

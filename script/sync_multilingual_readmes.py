@@ -33,6 +33,7 @@ LOCALES = {
         "note_2": "> Aktuelle prompt-only Updates werden ausserdem in `gpt_image_2_prompt.json` dokumentiert.",
         "news_heading": "Neuigkeiten",
         "news": [
+            "- **30. April 2026:** 9 neue GPT-Image-2-Prompt-Faelle aus dem Suchbatch der letzten 24 Stunden hinzugefuegt (3 Portraet, 1 Poster, 3 UI, 2 Vergleich) nach Freigabe und validierter Medienpruefung",
             "- **21. April 2026:** 48 neue Prompt-Faelle in die Galerieabschnitte einsortiert und verlinkte Ausgabebilder heruntergeladen",
             "- **21. April 2026:** 12 neue GPT-Image-2-Prompts fuer Portraet-, Poster-, UI- und Vergleichsfaelle hinzugefuegt",
             "- **20. April 2026:** 10 neu kuratierte GPT-Image-2-Prompts mit lokalen Bildassets und README-Updates hinzugefuegt.",
@@ -70,6 +71,7 @@ LOCALES = {
         "note_2": "> Las actualizaciones recientes solo de prompts tambien se registran en `gpt_image_2_prompt.json`.",
         "news_heading": "Novedades",
         "news": [
+            "- **30 de abril de 2026:** Se agregaron 9 nuevos casos de prompts de GPT-Image-2 del lote de busqueda de las ultimas 24 horas (3 retrato, 1 poster, 3 UI, 2 comparativa) tras la aprobacion y la validacion de medios",
             "- **21 de abril de 2026:** Se categorizaron 48 nuevos casos de prompts en las secciones de la galeria y se descargaron las imagenes de salida enlazadas",
             "- **21 de abril de 2026:** Se agregaron 12 nuevos prompts de GPT-Image-2 en casos de retrato, poster, UI y comparativas",
             "- **20 de abril de 2026:** Se agregaron 10 nuevos prompts curados de GPT-Image-2 con recursos de imagen locales y actualizaciones del README.",
@@ -107,6 +109,7 @@ LOCALES = {
         "note_2": "> Les mises a jour recentes contenant uniquement des prompts sont egalement suivies dans `gpt_image_2_prompt.json`.",
         "news_heading": "Actualites",
         "news": [
+            "- **30 avril 2026 :** Ajout de 9 nouveaux cas de prompts GPT-Image-2 issus du lot de recherche des dernieres 24 heures (3 portrait, 1 affiche, 3 UI, 2 comparaison) apres approbation et validation des medias",
             "- **21 avril 2026 :** 48 nouveaux cas de prompts ont ete classes dans les sections de la galerie et les images de sortie liees ont ete telechargees",
             "- **21 avril 2026 :** Ajout de 12 nouveaux prompts GPT-Image-2 dans les categories portrait, affiche, UI et comparaison",
             "- **20 avril 2026 :** Ajout de 10 nouveaux prompts GPT-Image-2 organises avec des ressources image locales et des mises a jour du README.",
@@ -144,6 +147,7 @@ LOCALES = {
         "note_2": "> 最近のプロンプトのみの更新は `gpt_image_2_prompt.json` にも記録しています。",
         "news_heading": "最新情報",
         "news": [
+            "- **2026年4月30日:** 直近24時間の検索バッチから承認済みかつメディア検証済みの GPT-Image-2 プロンプト事例を9件追加（ポートレート3、ポスター1、UI 3、比較2）",
             "- **2026年4月21日:** 48件の新しいプロンプト事例をギャラリーの各セクションに整理し、リンク先の出力画像をダウンロードしました",
             "- **2026年4月21日:** ポートレート、ポスター、UI、比較カテゴリに GPT-Image-2 の新規プロンプトを 12 件追加",
             "- **2026年4月20日:** ローカル画像アセットと README 更新を含む GPT-Image-2 の新規キュレーション済みプロンプトを 10 件追加。",
@@ -181,6 +185,7 @@ LOCALES = {
         "note_2": "> 최근 프롬프트 전용 업데이트도 `gpt_image_2_prompt.json`에 함께 기록됩니다.",
         "news_heading": "최신 소식",
         "news": [
+            "- **2026년 4월 30일:** 최근 24시간 검색 배치에서 승인되고 미디어 검증을 통과한 GPT-Image-2 신규 프롬프트 사례 9개를 추가했습니다 (인물 3, 포스터 1, UI 3, 비교 2)",
             "- **2026년 4월 21일:** 새 프롬프트 사례 48개를 갤러리 섹션별로 정리하고 연결된 출력 이미지를 다운로드했습니다",
             "- **2026년 4월 21일:** 인물, 포스터, UI, 비교 카테고리에 GPT-Image-2 신규 프롬프트 12개 추가",
             "- **2026년 4월 20일:** 로컬 이미지 자산과 README 업데이트를 포함한 GPT-Image-2 신규 큐레이션 프롬프트 10개 추가.",
