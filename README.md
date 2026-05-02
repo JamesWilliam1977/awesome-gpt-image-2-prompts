@@ -77,7 +77,7 @@ Want to move from prompt inspiration to real image generation fast? Use the GPT 
 
 ### 1. Quick Install the Skill
 
-- Repository: [gpt-image-2-gen-skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+- [Go to gpt-image-2-gen-skill repository](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 - One-line install:
 
 ```bash
@@ -99,8 +99,8 @@ curl --request POST \
 }'
 ```
 
-- Get your API key: [Open Evolink Dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
-- API docs: [GPT Image 2 Image Generation](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+- [Get your API key](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
+- [Read GPT Image 2 API docs](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 ## 🛒 E-commerce Cases
 
