@@ -747,3 +747,29 @@ GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyp
 GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background. Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing). Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene. Use a soft pastel color palette (white base with pink, peach, blue accents). Keep the frame visually rich and filled but balanced and clean. Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful. The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene
 ```
 
+<!-- Case 80: 视觉品牌拆解图 (by @X7649158034321) -->
+### Case 80: [视觉品牌拆解图](https://x.com/X7649158034321/status/2049721847001047274) (by [@X7649158034321](https://x.com/X7649158034321))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case80/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请帮我生成一张视觉品牌拆解图，稍后我需要用来生成讲解的视频。
+```
+
+<!-- Case 81: Apartment Drama Animation Storyboard Sheet (by @CurieuxExplorer) -->
+### Case 81: [Apartment Drama Animation Storyboard Sheet](https://x.com/CurieuxExplorer/status/2049709975040401601) (by [@CurieuxExplorer](https://x.com/CurieuxExplorer))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case81/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a new animation sheet, but this time it's a storyboard between an Indian man and an Indian woman in a dramatic scene inside an apartment. Ensure the elements of the apartment are in the scene, and include dialogue boxes, this is for 15 seconds so be careful of the cadence (sentences not too long), when a character speaks they should be the only one in frame.
+```
+

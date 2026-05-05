@@ -862,3 +862,189 @@ Chinese text, long text, messy layout, old parchment background, yellow aged pap
 Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
 ```
 
+<!-- Case 128: Personal Color Analysis Graphic Board (by @ZaraIrahh) -->
+### Case 128: [Personal Color Analysis Graphic Board](https://x.com/ZaraIrahh/status/2049730770474877234) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case128/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.
+```
+
+<!-- Case 129: Futuristic Hall Fashion Shot Sequence (by @weiinberg) -->
+### Case 129: [Futuristic Hall Fashion Shot Sequence](https://x.com/weiinberg/status/2049730563393884265) (by [@weiinberg](https://x.com/weiinberg))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case129/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Frame 1 (Top-Down Establishing)
+Extreme top-down shot in futuristic white curved hall, subject centered but compressed against smooth reflective floor, body aligned straight but slightly angled, arms close to body with subtle tension, head tilted upward toward camera, gaze directed straight up, strong circular architectural lines framing composition, soft studio lighting creating gentle gradients, shallow depth of field at f/1.2, smartphone-like proximity despite height, clean minimal atmosphere, dynamic opening frame, subtle athletic readiness, wearing full beige suit with white t-shirt and white sleek sneakers, Peter Lindbergh influence
+Frame 2 (Low Angle Power)
+Extreme low angle from floor level, subject towering above camera, legs forming strong base, torso slightly leaning forward, shoulders squared, arms slightly away from body, head angled downward, gaze into lens, strong vertical distortion, reflective floor amplifying silhouette, soft studio lighting with controlled highlights, shallow depth f/1.2, powerful dominance frame, subtle athletic tension, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 3 (Wide Isolation)
+Wide long shot, subject very small within vast futuristic hall, surrounded by curved white architecture, large negative space dominating composition, subject standing still, body straight, arms relaxed but structured, head slightly turned, gaze outward into space, minimal reflections, soft even lighting, shallow depth f/1.2 isolating subject despite distance, cinematic silence, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 4 (Dynamic Close-Up Tilt)
+Close-up with strong diagonal tilt, subject leaning into frame, shoulders sharply angled, one arm crossing body, head tilted sideways, gaze slightly off camera, tight crop cutting part of body, soft lighting wrapping contours, shallow depth f/1.2 isolating face plane, intense proximity and tension, full beige suit, white t-shirt visible, Peter Lindbergh influence
+Frame 5 (Motion Step Forward)
+Mid shot, subject stepping forward dynamically, one leg extended, weight shifting, arms slightly swinging with controlled motion, shoulders rotated, head facing forward, gaze ahead, slight motion blur on edges, futuristic curved walls passing behind, soft studio lighting, shallow depth f/1.2, transitional energy frame, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 6 (Final Grounded Frame)
+Full body frontal shot, subject standing firmly, legs slightly apart, arms held with controlled tension, shoulders squared, head facing forward, gaze into camera, symmetrical composition slightly offset, minimal futuristic background, soft lighting emphasizing structure, shallow depth f/1.2, strong final impact frame, subtle athletic readiness, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+
+Negative Commands (apply to all frames):
+no text, no watermark, no low quality, no cartoonish style
+
+Aspect Ratio: 3:4
+```
+
+<!-- Case 130: Annotated Coffee Table Mood Board (by @Ciri_ai) -->
+### Case 130: [Annotated Coffee Table Mood Board](https://x.com/Ciri_ai/status/2049721047696732550) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case130/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded photo as the main base image.
+
+Based on the coffee, drinks, desserts, plates, props, table setting, and overall composition shown in the image, create an aesthetic and emotional result that naturally reflects the real elements in the photo. Do not add any people. Stay true to the actual types of food and drinks, their arrangement, and the atmosphere captured in the original image.
+
+Then, carefully observe each element in the photo and add hand-drawn style annotations that match each subject:
+
+Use white pen-style sketch lines with a rough, slightly uneven, hand-drawn feel
+
+Include object outlines, arrows, and dotted lines to guide visual flow
+
+Add short handwritten Korean notes in a casual, introspective, emotional tone
+
+For drinks: describe taste, temperature, and mood
+
+For desserts: describe texture and flavor
+
+For the space: describe the ambiance
+
+Include a short overall summary of the scene
+
+Subtly incorporate small details like steam, sparkles, hearts, or tiny emotive symbols
+
+Maintain a clean, spacious layout with an Instagram story or magazine memo-like aesthetic
+
+The final result should look like an emotionally styled version of the original photo, without forcing in any elements that don’t naturally belong to it
+```
+
+<!-- Case 131: High-Fashion Beverage Campaign Board (by @SPEEDAI07) -->
+### Case 131: [High-Fashion Beverage Campaign Board](https://x.com/SPEEDAI07/status/2049713995851202786) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case131/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.
+
+A stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.
+
+Foreground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.
+
+Typography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN
+
+Use refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.
+
+Add subtle microcopy: “Botanical. Bright. Made to sparkle.”
+
+Minimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ
+
+Bottom strip: 3 cans styled like a luxury product lineup with fruit + herbs arranged like still life photography:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA: SHOP FLAVORS →
+
+Style: Vogue campaign, luxury branding, cinematic lighting, ultra-realistic, muted tones, high contrast, premium finish.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🌿 2. Minimal Premium (Apple-style)
+
+Prompt:
+
+Create a minimalist premium beverage ad with a sunlit rooftop setting and extremely clean composition.
+
+Background: soft gradient sky with warm golden-hour tones, minimal distractions, large negative space.
+
+A relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.
+
+Centerpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.
+
+Typography: SUN IN EVERY SIP
+
+Use modern minimal typography, centered, with generous spacing.
+
+Supporting line: “Real botanicals. Effortless refreshment.”
+
+Icons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ
+
+Bottom section: 3 cans evenly spaced, perfectly aligned with subtle shadows:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA button (pill-shaped): SHOP FLAVORS
+
+Style: Apple-level minimalism, ultra-clean layout, soft gradients, modern luxury, highly polished product rendering.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🍊 3. Bold Gen Z Premium Version
+
+Prompt:
+
+Create a bold, scroll-stopping vertical beverage ad set on a rooftop during golden hour with vibrant citrus energy.
+
+Lighting: warm, saturated sunlight, glowing highlights, high contrast.
+
+A confident male model drinks directly from the can mid-action, candid and dynamic.
+
+Hero can: oversized, slightly exaggerated scale on a textured stone pedestal, covered in condensation.
+
+Typography: DRINK THE SUN
+
+Use large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.
+
+Tagline: “Fresh. Bright. Addictive.”
+
+Feature icons arranged dynamically: LOW SUGAR
+REAL FRUIT
+LIGHTLY SPARKLING
+12 OZ
+
+Bottom: 3 cans with energetic ingredient styling:
+
+Blood Orange Basil (splashes, citrus slices)
+
+Peach Ginger (fresh peach + ginger root)
+
+Lime Mint (lime wedges + mint leaves)
+
+CTA: SHOP FLAVORS →
+
+Style: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.
+Aspect ratio: vertical (9:16 preferred)
+```
+

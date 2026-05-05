@@ -711,3 +711,29 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 Given a story concept, generate a complete Miyazaki-style animated short film: write a 30-shot script → generate watercolor storyboard images (gpt-image-1) → plan SOFT/HARD transitions → produce video clips with Seedance 2.0 using first/last-frame binding → synthesize the original ambient piano score → stitch everything into a final MP4 with music.
 ```
 
+<!-- Case 80: 视觉品牌拆解图 (by @X7649158034321) -->
+### Case 80: [视觉品牌拆解图](https://x.com/X7649158034321/status/2049721847001047274) (by [@X7649158034321](https://x.com/X7649158034321))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case80/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请帮我生成一张视觉品牌拆解图，稍后我需要用来生成讲解的视频。
+```
+
+<!-- Case 81: Apartment Drama Animation Storyboard Sheet (by @CurieuxExplorer) -->
+### Case 81: [Apartment Drama Animation Storyboard Sheet](https://x.com/CurieuxExplorer/status/2049709975040401601) (by [@CurieuxExplorer](https://x.com/CurieuxExplorer))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case81/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a new animation sheet, but this time it's a storyboard between an Indian man and an Indian woman in a dramatic scene inside an apartment. Ensure the elements of the apartment are in the scene, and include dialogue boxes, this is for 15 seconds so be careful of the cadence (sentences not too long), when a character speaks they should be the only one in frame.
+```
+
