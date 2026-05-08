@@ -1,0 +1,300 @@
+# Instincts generated from https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+# Generated: 2026-05-01T06:09:45.554Z
+# Version: 2.0
+# NOTE: This file supplements (does not replace) any existing curated instincts.
+# High-confidence manually curated instincts should be preserved alongside these.
+
+---
+id: awesome-gpt-image-2-prompts-commit-conventional
+trigger: "when writing a commit message"
+confidence: 0.85
+domain: git
+source: repo-analysis
+source_repo: https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Commit Conventional
+
+## Action
+
+Use conventional commit format with prefixes: fix
+
+## Evidence
+
+- 1 commits analyzed
+- Detected conventional commit pattern
+- Examples: fix: rebuild README menus and localized category links
+
+---
+id: awesome-gpt-image-2-prompts-commit-length
+trigger: "when writing a commit message"
+confidence: 0.6
+domain: git
+source: repo-analysis
+source_repo: https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Commit Length
+
+## Action
+
+Write moderate-length commit messages (~54 characters)
+
+## Evidence
+
+- Average commit message length: 54 chars
+- Based on 1 commits
+
+---
+id: awesome-gpt-image-2-prompts-naming-files
+trigger: "when creating a new file"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Naming Files
+
+## Action
+
+Use snake_case naming convention
+
+## Evidence
+
+- Analyzed file naming patterns in repository
+- Dominant pattern: snake_case
+
+---
+id: awesome-gpt-image-2-prompts-import-relative
+trigger: "when importing modules"
+confidence: 0.75
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Import Relative
+
+## Action
+
+Use relative imports for project files
+
+## Evidence
+
+- Import analysis shows relative import pattern
+- Example: import { x } from '../lib/x'
+
+---
+id: awesome-gpt-image-2-prompts-export-style
+trigger: "when exporting from a module"
+confidence: 0.7
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Export Style
+
+## Action
+
+Prefer named exports
+
+## Evidence
+
+- Export pattern analysis
+- Dominant style: named
+
+---
+id: awesome-gpt-image-2-prompts-test-separate
+trigger: "when writing tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: https://github.com/JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Test Separate
+
+## Action
+
+Place tests in the tests/ or __tests__/ directory, mirroring src structure
+
+## Evidence
+
+- Separate test directory pattern detected
+- Tests live in dedicated test folders
+
+---
+id: awesome-gpt-image-2-prompts-instinct-file-naming
+trigger: "When creating a new file"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct File Naming
+
+## Action
+
+Name the file using snake_case
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.files
+
+---
+id: awesome-gpt-image-2-prompts-instinct-function-naming
+trigger: "When defining a new function"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Function Naming
+
+## Action
+
+Name the function using camelCase
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.functions
+
+---
+id: awesome-gpt-image-2-prompts-instinct-class-naming
+trigger: "When defining a new class"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Class Naming
+
+## Action
+
+Name the class using PascalCase
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.classes
+
+---
+id: awesome-gpt-image-2-prompts-instinct-constant-naming
+trigger: "When declaring a constant"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Constant Naming
+
+## Action
+
+Name the constant using SCREAMING_SNAKE_CASE
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.constants
+
+---
+id: awesome-gpt-image-2-prompts-instinct-import-style
+trigger: "When importing modules"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Import Style
+
+## Action
+
+Use relative import paths
+
+## Evidence
+
+- Pattern in codeStyle.importStyle
+
+---
+id: awesome-gpt-image-2-prompts-instinct-export-style
+trigger: "When exporting modules or symbols"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Export Style
+
+## Action
+
+Use named exports
+
+## Evidence
+
+- Pattern in codeStyle.exportStyle
+
+---
+id: awesome-gpt-image-2-prompts-instinct-git-commit-prefix
+trigger: "When writing a commit message for a bug fix"
+confidence: 0.9
+domain: git
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Git Commit Prefix
+
+## Action
+
+Prefix the commit message with 'fix:'
+
+## Evidence
+
+- Pattern in commits.prefixes
+- Seen in commit: 'fix: rebuild README menus and localized category links'
+
+---
+id: awesome-gpt-image-2-prompts-instinct-git-commit-format
+trigger: "When writing a commit message"
+confidence: 0.9
+domain: git
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Git Commit Format
+
+## Action
+
+Follow the conventional commit format: <type>: <description>
+
+## Evidence
+
+- Pattern in commits.type
+- Seen in commit: 'fix: rebuild README menus and localized category links'
+
+---
+id: awesome-gpt-image-2-prompts-instinct-test-location
+trigger: "When adding new tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: JamesWilliam1977/awesome-gpt-image-2-prompts
+---
+
+# Awesome Gpt Image 2 Prompts Instinct Test Location
+
+## Action
+
+Place test files in a separate location from source files
+
+## Evidence
+
+- Pattern in architecture.folderStructure.testLocation
+
